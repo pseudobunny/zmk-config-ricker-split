@@ -1,0 +1,2 @@
+config RICKER_SPLIT
+    def_bool $(shields_list_contains, ricker_split)

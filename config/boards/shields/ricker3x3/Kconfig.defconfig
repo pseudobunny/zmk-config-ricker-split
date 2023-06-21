@@ -1,0 +1,6 @@
+if RICKER_SPLIT
+
+config ZMK_KEYBOARD_NAME
+    default "ricker_split"
+
+endif
