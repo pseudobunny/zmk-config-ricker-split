@@ -25,10 +25,10 @@
 
         sym_layer {
             bindings = <
-&kp LS(EXCL)     &kp LS(AT)         &kp LS(POUND)  &kp LS(DLLR)      &kp LS(PRCNT)  &kp LS(CARET)  &kp LS(AMPS)  &kp LS(STAR)  &kp EQUAL  &kp LS(COLON)
-   &kp GRAVE  &kp LS(TILDE)  &kp LS(LEFT_BRACKET)  &kp LS(LPAR)           &kp LBKT  &kp LS(UNDER)         &none         &none      &none          &none
-  &kp LS(LT)     &kp LS(GT)          &kp LS(RBRC)  &kp LS(RPAR)  &kp RIGHT_BRACKET       &kp BSLH     &kp MINUS      &kp PLUS   &kp FSLH  &kp LS(QMARK)
-                                            &none         &mo 3              &none          &none         &none         &none
+&kp LS(EXCL)     &kp LS(AT)  &kp LS(POUND)  &kp LS(DLLR)      &kp LS(PRCNT)  &kp LS(CARET)  &kp LS(AMPS)  &kp LS(STAR)  &kp EQUAL  &kp LS(COLON)
+   &kp GRAVE  &kp LS(TILDE)   &kp LS(RBKT)  &kp LS(LPAR)           &kp LBKT  &kp LS(UNDER)      &kp PIPE         &none      &none          &none
+  &kp LS(LT)     &kp LS(GT)   &kp LS(RBRC)  &kp LS(RPAR)  &kp RIGHT_BRACKET       &kp BSLH     &kp MINUS      &kp PLUS   &kp FSLH  &kp LS(QMARK)
+                                     &none         &mo 3              &none          &none         &none         &none
             >;
         };
 
